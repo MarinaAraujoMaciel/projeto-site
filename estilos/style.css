@@ -4,8 +4,9 @@
 }
 
 body{
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(30, 2, 57);
 }
+
 main{
     background-color: white;
     width: 560px;
@@ -19,6 +20,7 @@ h1{
     font-size: 1.5cm;
     color: rgb(58, 0, 112);
 }
+
  h2{
     text-align: left;
     font-size: 0.45cm;
@@ -30,6 +32,7 @@ h1{
     font-size: 0.50cm;
     color: rgb(58, 0, 112);  
  }
+
 a {
     text-decoration: none;
     font-weight: bold;
