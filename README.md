@@ -3,4 +3,4 @@
 
  ---
 
- [meu githib]: https://www.mozilla.org
+ [I'm an inline-style link](https://www.google.com)
