@@ -2,4 +2,4 @@
  Projeto de um site criado durante o curso de Git e GitHub
 
  ---
- ![Clique aqui] (https://marinaaraujomaciel.github.io/projeto-site/)
+ ![https://marinaaraujomaciel.github.io/projeto-site/] (Clique aqui)
